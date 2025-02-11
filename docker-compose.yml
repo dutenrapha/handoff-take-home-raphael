@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  ai_ml_evaluator:
+    build: .
+    container_name: ai_ml_evaluator
+    restart: always
