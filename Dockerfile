@@ -4,7 +4,12 @@ WORKDIR /app
 
 COPY requirements.txt requirements.txt
 COPY main.py main.py
-
+COPY config.yaml config.yaml
+COPY evaluators/ evaluators/
+COPY adapters/ adapters/
+COPY observers/ observers/
+COPY reports/ reports/
+COPY data/ data/
 
 RUN pip install --no-cache-dir -r requirements.txt
 

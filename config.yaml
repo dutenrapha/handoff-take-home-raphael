@@ -1,0 +1,10 @@
+ground_truth_dir: "data/ground_truth"
+model_outputs_dir: "data/model_outputs"
+evaluation:
+  metrics:
+    - MAE
+    - MAPE
+    - MRE
+  format: "json"
+  output_path: "reports/evaluation_report.csv"
+log_file: "logs/evaluation.log"

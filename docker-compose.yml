@@ -4,4 +4,8 @@ services:
   ai_ml_evaluator:
     build: .
     container_name: ai_ml_evaluator
+    volumes:
+      - ./data:/app/data
+    environment:
+      - CONFIG_PATH=/app/config.yaml
     restart: always

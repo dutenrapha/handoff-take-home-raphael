@@ -10,7 +10,10 @@ venv/
 *.swo
 *.swn
 *~
-
+*.ipynb
+*.csv
+*.json
+data
 
 *.log
 
