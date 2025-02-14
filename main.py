@@ -6,6 +6,8 @@ from evaluators.mae_evaluator import MAE
 from evaluators.mre_evaluator import MRE
 from evaluators.mape_evaluator import MAPE
 from evaluators.evaluator_pipeline import EvaluationPipeline
+from evaluators.asymmetric_evaluator import AsymmetricLoss
+
 from observers.evaluation_notifier import EvaluationNotifier
 from observers.console_logger import ConsoleLogger
 from observers.file_logger import FileLogger
@@ -14,6 +16,7 @@ EVALUATOR_MAPPING = {
     "MAE": MAE,
     "MRE": MRE,
     "MAPE": MAPE,
+    "ASYMMETRIC": AsymmetricLoss,
 }
 
 if __name__ == "__main__":

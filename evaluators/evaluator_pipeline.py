@@ -155,7 +155,7 @@ class EvaluationPipeline:
         section_df = pd.DataFrame(all_section_results)
 
         eval_config = self.config.get("evaluation", {})
-        output_path = eval_config.get("output_path", "reports/evaluation_report.csv")
+        output_path = eval_config.get("output_path", "reports/evaluation_report")
         base_output = os.path.splitext(output_path)[0]
 
         global_output = f"{base_output}_global.{self.report_format}"
