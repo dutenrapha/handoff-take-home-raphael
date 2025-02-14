@@ -1,0 +1,3290 @@
+[
+    {
+        "model_file": "2.json",
+        "sectionName": "Doors",
+        "metric": "MAE",
+        "score": 11240.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Drywall",
+        "metric": "MAE",
+        "score": 11819.940000000002
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "General Conditions",
+        "metric": "MAE",
+        "score": 47343.66
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Insulation",
+        "metric": "MAE",
+        "score": 1709.3399999999965
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Tile",
+        "metric": "MAE",
+        "score": 2955.3399999999965
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Bath Accessories",
+        "metric": "MAE",
+        "score": 633.6
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Labor",
+        "metric": "MAE",
+        "score": 11520.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Demolition",
+        "metric": "MAE",
+        "score": 96535.69
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Metal Framing",
+        "metric": "MAE",
+        "score": 21491.2
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Appliances",
+        "metric": "MAE",
+        "score": 1430.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Countertops",
+        "metric": "MAE",
+        "score": 6512.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Framing",
+        "metric": "MAE",
+        "score": 14006.640000000014
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Plumbing",
+        "metric": "MAE",
+        "score": 44951.54
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Roofing",
+        "metric": "MAE",
+        "score": 9491.68
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Trim",
+        "metric": "MAE",
+        "score": 2933.5
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Cabinets",
+        "metric": "MAE",
+        "score": 49164.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Electrical",
+        "metric": "MAE",
+        "score": 12772.600000000002
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Excavation",
+        "metric": "MAE",
+        "score": 2035.8400000000001
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Siding",
+        "metric": "MAE",
+        "score": 35547.5
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Concrete",
+        "metric": "MAE",
+        "score": 45633.2
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Contents",
+        "metric": "MAE",
+        "score": 3860.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Windows",
+        "metric": "MAE",
+        "score": 1420.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Specialties",
+        "metric": "MAE",
+        "score": 141585.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Carpentry",
+        "metric": "MAE",
+        "score": 1384.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Moving",
+        "metric": "MAE",
+        "score": 5520.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Cabinetry",
+        "metric": "MAE",
+        "score": 30960.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Painting",
+        "metric": "MAE",
+        "score": 12965.82
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Plaster",
+        "metric": "MAE",
+        "score": 5472.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Cleaning",
+        "metric": "MAE",
+        "score": 775.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "HVAC",
+        "metric": "MAE",
+        "score": 12505.199999999997
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Stucco",
+        "metric": "MAE",
+        "score": 11750.4
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Lighting",
+        "metric": "MAE",
+        "score": 1920.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Flooring",
+        "metric": "MAE",
+        "score": 5520.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Doors",
+        "metric": "MAPE",
+        "score": 59.53389830508474
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Drywall",
+        "metric": "MAPE",
+        "score": 18.517716625484645
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "General Conditions",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Insulation",
+        "metric": "MAPE",
+        "score": 6.469562768770287
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Tile",
+        "metric": "MAPE",
+        "score": 3.888114132951622
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Bath Accessories",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Labor",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Demolition",
+        "metric": "MAPE",
+        "score": 142.38079758635044
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Metal Framing",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Appliances",
+        "metric": "MAPE",
+        "score": 17.875
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Countertops",
+        "metric": "MAPE",
+        "score": 69.21768707482994
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Framing",
+        "metric": "MAPE",
+        "score": 8.936940597391176
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Plumbing",
+        "metric": "MAPE",
+        "score": 57.60806685228772
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Roofing",
+        "metric": "MAPE",
+        "score": 31.350840014163182
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Trim",
+        "metric": "MAPE",
+        "score": 98.83760107816711
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Cabinets",
+        "metric": "MAPE",
+        "score": 15363.749999999998
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Electrical",
+        "metric": "MAPE",
+        "score": 28.59874522518327
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Excavation",
+        "metric": "MAPE",
+        "score": 25.33450143357757
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Siding",
+        "metric": "MAPE",
+        "score": 177.97331464190052
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Concrete",
+        "metric": "MAPE",
+        "score": 199.43883081011154
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Contents",
+        "metric": "MAPE",
+        "score": NaN
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Windows",
+        "metric": "MAPE",
+        "score": 16.136363636363637
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Specialties",
+        "metric": "MAPE",
+        "score": 1993.0320945945948
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Carpentry",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Moving",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Cabinetry",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Painting",
+        "metric": "MAPE",
+        "score": 26.965654189280475
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Plaster",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Cleaning",
+        "metric": "MAPE",
+        "score": 4.078947368421053
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "HVAC",
+        "metric": "MAPE",
+        "score": 27.742971744995025
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Stucco",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Lighting",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Flooring",
+        "metric": "MAPE",
+        "score": 32.857142857142854
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Doors",
+        "metric": "MRE",
+        "score": 0.5953389830508474
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Drywall",
+        "metric": "MRE",
+        "score": 0.18517716625484645
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "General Conditions",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Insulation",
+        "metric": "MRE",
+        "score": 0.06469562768770287
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Tile",
+        "metric": "MRE",
+        "score": 0.03888114132951622
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Bath Accessories",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Labor",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Demolition",
+        "metric": "MRE",
+        "score": 1.4238079758635043
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Metal Framing",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Appliances",
+        "metric": "MRE",
+        "score": 0.17875
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Countertops",
+        "metric": "MRE",
+        "score": 0.6921768707482994
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Framing",
+        "metric": "MRE",
+        "score": 0.08936940597391176
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Plumbing",
+        "metric": "MRE",
+        "score": 0.5760806685228772
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Roofing",
+        "metric": "MRE",
+        "score": 0.31350840014163184
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Trim",
+        "metric": "MRE",
+        "score": 0.9883760107816711
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Cabinets",
+        "metric": "MRE",
+        "score": 153.6375
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Electrical",
+        "metric": "MRE",
+        "score": 0.2859874522518327
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Excavation",
+        "metric": "MRE",
+        "score": 0.2533450143357757
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Siding",
+        "metric": "MRE",
+        "score": 1.7797331464190052
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Concrete",
+        "metric": "MRE",
+        "score": 1.9943883081011153
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Contents",
+        "metric": "MRE",
+        "score": NaN
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Windows",
+        "metric": "MRE",
+        "score": 0.16136363636363638
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Specialties",
+        "metric": "MRE",
+        "score": 19.930320945945947
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Carpentry",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Moving",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Cabinetry",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Painting",
+        "metric": "MRE",
+        "score": 0.26965654189280475
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Plaster",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Cleaning",
+        "metric": "MRE",
+        "score": 0.04078947368421053
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "HVAC",
+        "metric": "MRE",
+        "score": 0.27742971744995026
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Stucco",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Lighting",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Flooring",
+        "metric": "MRE",
+        "score": 0.32857142857142857
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Doors",
+        "metric": "ASYMMETRIC",
+        "score": 22480.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Drywall",
+        "metric": "ASYMMETRIC",
+        "score": 23639.880000000005
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "General Conditions",
+        "metric": "ASYMMETRIC",
+        "score": 94687.32
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Insulation",
+        "metric": "ASYMMETRIC",
+        "score": 1709.3399999999965
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Tile",
+        "metric": "ASYMMETRIC",
+        "score": 2955.3399999999965
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Bath Accessories",
+        "metric": "ASYMMETRIC",
+        "score": 1267.2
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Labor",
+        "metric": "ASYMMETRIC",
+        "score": 23040.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Demolition",
+        "metric": "ASYMMETRIC",
+        "score": 96535.69
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Metal Framing",
+        "metric": "ASYMMETRIC",
+        "score": 42982.4
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Appliances",
+        "metric": "ASYMMETRIC",
+        "score": 1430.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Countertops",
+        "metric": "ASYMMETRIC",
+        "score": 6512.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Framing",
+        "metric": "ASYMMETRIC",
+        "score": 14006.640000000014
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Plumbing",
+        "metric": "ASYMMETRIC",
+        "score": 89903.08
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Roofing",
+        "metric": "ASYMMETRIC",
+        "score": 18983.36
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Trim",
+        "metric": "ASYMMETRIC",
+        "score": 2933.5
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Cabinets",
+        "metric": "ASYMMETRIC",
+        "score": 49164.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Electrical",
+        "metric": "ASYMMETRIC",
+        "score": 25545.200000000004
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Excavation",
+        "metric": "ASYMMETRIC",
+        "score": 4071.6800000000003
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Siding",
+        "metric": "ASYMMETRIC",
+        "score": 35547.5
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Concrete",
+        "metric": "ASYMMETRIC",
+        "score": 45633.2
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Contents",
+        "metric": "ASYMMETRIC",
+        "score": 3860.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Windows",
+        "metric": "ASYMMETRIC",
+        "score": 1420.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Specialties",
+        "metric": "ASYMMETRIC",
+        "score": 141585.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Carpentry",
+        "metric": "ASYMMETRIC",
+        "score": 2768.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Moving",
+        "metric": "ASYMMETRIC",
+        "score": 11040.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Cabinetry",
+        "metric": "ASYMMETRIC",
+        "score": 61920.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Painting",
+        "metric": "ASYMMETRIC",
+        "score": 25931.64
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Plaster",
+        "metric": "ASYMMETRIC",
+        "score": 10944.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Cleaning",
+        "metric": "ASYMMETRIC",
+        "score": 775.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "HVAC",
+        "metric": "ASYMMETRIC",
+        "score": 25010.399999999994
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Stucco",
+        "metric": "ASYMMETRIC",
+        "score": 23500.8
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Lighting",
+        "metric": "ASYMMETRIC",
+        "score": 3840.0
+    },
+    {
+        "model_file": "2.json",
+        "sectionName": "Flooring",
+        "metric": "ASYMMETRIC",
+        "score": 11040.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Doors",
+        "metric": "MAE",
+        "score": 11250.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Drywall",
+        "metric": "MAE",
+        "score": 21796.04
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "General Conditions",
+        "metric": "MAE",
+        "score": 47343.66
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Insulation",
+        "metric": "MAE",
+        "score": 15169.260000000002
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Tile",
+        "metric": "MAE",
+        "score": 1263.6000000000058
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Bath Accessories",
+        "metric": "MAE",
+        "score": 633.6
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Labor",
+        "metric": "MAE",
+        "score": 11520.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Demolition",
+        "metric": "MAE",
+        "score": 12531.559999999998
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Metal Framing",
+        "metric": "MAE",
+        "score": 21491.2
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Appliances",
+        "metric": "MAE",
+        "score": 1400.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Countertops",
+        "metric": "MAE",
+        "score": 458.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Framing",
+        "metric": "MAE",
+        "score": 66548.14000000001
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Plumbing",
+        "metric": "MAE",
+        "score": 34551.94
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Roofing",
+        "metric": "MAE",
+        "score": 14081.32
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Trim",
+        "metric": "MAE",
+        "score": 5987.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Cabinets",
+        "metric": "MAE",
+        "score": 48906.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Electrical",
+        "metric": "MAE",
+        "score": 7507.4000000000015
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Wallcoverings",
+        "metric": "MAE",
+        "score": 9000.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Excavation",
+        "metric": "MAE",
+        "score": 8035.84
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Siding",
+        "metric": "MAE",
+        "score": 28235.9
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Concrete",
+        "metric": "MAE",
+        "score": 48779.59999999999
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Contents",
+        "metric": "MAE",
+        "score": 1800.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Windows",
+        "metric": "MAE",
+        "score": 2600.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Specialties",
+        "metric": "MAE",
+        "score": 2714.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Carpentry",
+        "metric": "MAE",
+        "score": 1384.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Moving",
+        "metric": "MAE",
+        "score": 5520.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Cabinetry",
+        "metric": "MAE",
+        "score": 30960.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Painting",
+        "metric": "MAE",
+        "score": 22571.120000000003
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Plaster",
+        "metric": "MAE",
+        "score": 5472.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Cleaning",
+        "metric": "MAE",
+        "score": 4250.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "HVAC",
+        "metric": "MAE",
+        "score": 7356.800000000003
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Stucco",
+        "metric": "MAE",
+        "score": 11750.4
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Lighting",
+        "metric": "MAE",
+        "score": 1920.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Flooring",
+        "metric": "MAE",
+        "score": 7030.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Doors",
+        "metric": "MAPE",
+        "score": 59.58686440677966
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Drywall",
+        "metric": "MAPE",
+        "score": 34.14678012559525
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "General Conditions",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Insulation",
+        "metric": "MAPE",
+        "score": 57.41308325189639
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Tile",
+        "metric": "MAPE",
+        "score": 1.6624215888519418
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Bath Accessories",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Labor",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Demolition",
+        "metric": "MAPE",
+        "score": 18.48283787893581
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Metal Framing",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Appliances",
+        "metric": "MAPE",
+        "score": 17.5
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Countertops",
+        "metric": "MAPE",
+        "score": 4.868197278911564
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Framing",
+        "metric": "MAPE",
+        "score": 42.461059472283935
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Plumbing",
+        "metric": "MAPE",
+        "score": 44.280362127665356
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Roofing",
+        "metric": "MAPE",
+        "score": 46.510334367386626
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Trim",
+        "metric": "MAPE",
+        "score": 201.71832884097034
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Cabinets",
+        "metric": "MAPE",
+        "score": 15283.125000000002
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Electrical",
+        "metric": "MAPE",
+        "score": 16.80959396704985
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Wallcoverings",
+        "metric": "MAPE",
+        "score": NaN
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Excavation",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Siding",
+        "metric": "MAPE",
+        "score": 141.3668110246076
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Concrete",
+        "metric": "MAPE",
+        "score": 213.19009824831295
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Contents",
+        "metric": "MAPE",
+        "score": NaN
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Windows",
+        "metric": "MAPE",
+        "score": 29.545454545454547
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Specialties",
+        "metric": "MAPE",
+        "score": 38.203828828828826
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Carpentry",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Moving",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Cabinetry",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Painting",
+        "metric": "MAPE",
+        "score": 46.94226948891411
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Plaster",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Cleaning",
+        "metric": "MAPE",
+        "score": 22.36842105263158
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "HVAC",
+        "metric": "MAPE",
+        "score": 16.321169955984676
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Stucco",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Lighting",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Flooring",
+        "metric": "MAPE",
+        "score": 41.845238095238095
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Doors",
+        "metric": "MRE",
+        "score": 0.5958686440677966
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Drywall",
+        "metric": "MRE",
+        "score": 0.3414678012559525
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "General Conditions",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Insulation",
+        "metric": "MRE",
+        "score": 0.5741308325189639
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Tile",
+        "metric": "MRE",
+        "score": 0.01662421588851942
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Bath Accessories",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Labor",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Demolition",
+        "metric": "MRE",
+        "score": 0.18482837878935812
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Metal Framing",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Appliances",
+        "metric": "MRE",
+        "score": 0.175
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Countertops",
+        "metric": "MRE",
+        "score": 0.048681972789115645
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Framing",
+        "metric": "MRE",
+        "score": 0.42461059472283935
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Plumbing",
+        "metric": "MRE",
+        "score": 0.44280362127665357
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Roofing",
+        "metric": "MRE",
+        "score": 0.46510334367386624
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Trim",
+        "metric": "MRE",
+        "score": 2.0171832884097034
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Cabinets",
+        "metric": "MRE",
+        "score": 152.83125
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Electrical",
+        "metric": "MRE",
+        "score": 0.1680959396704985
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Wallcoverings",
+        "metric": "MRE",
+        "score": NaN
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Excavation",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Siding",
+        "metric": "MRE",
+        "score": 1.4136681102460762
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Concrete",
+        "metric": "MRE",
+        "score": 2.1319009824831294
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Contents",
+        "metric": "MRE",
+        "score": NaN
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Windows",
+        "metric": "MRE",
+        "score": 0.29545454545454547
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Specialties",
+        "metric": "MRE",
+        "score": 0.3820382882882883
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Carpentry",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Moving",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Cabinetry",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Painting",
+        "metric": "MRE",
+        "score": 0.46942269488914107
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Plaster",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Cleaning",
+        "metric": "MRE",
+        "score": 0.2236842105263158
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "HVAC",
+        "metric": "MRE",
+        "score": 0.16321169955984674
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Stucco",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Lighting",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Flooring",
+        "metric": "MRE",
+        "score": 0.41845238095238096
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Doors",
+        "metric": "ASYMMETRIC",
+        "score": 22500.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Drywall",
+        "metric": "ASYMMETRIC",
+        "score": 43592.08
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "General Conditions",
+        "metric": "ASYMMETRIC",
+        "score": 94687.32
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Insulation",
+        "metric": "ASYMMETRIC",
+        "score": 30338.520000000004
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Tile",
+        "metric": "ASYMMETRIC",
+        "score": 2527.2000000000116
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Bath Accessories",
+        "metric": "ASYMMETRIC",
+        "score": 1267.2
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Labor",
+        "metric": "ASYMMETRIC",
+        "score": 23040.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Demolition",
+        "metric": "ASYMMETRIC",
+        "score": 25063.119999999995
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Metal Framing",
+        "metric": "ASYMMETRIC",
+        "score": 42982.4
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Appliances",
+        "metric": "ASYMMETRIC",
+        "score": 1400.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Countertops",
+        "metric": "ASYMMETRIC",
+        "score": 916.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Framing",
+        "metric": "ASYMMETRIC",
+        "score": 66548.14000000001
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Plumbing",
+        "metric": "ASYMMETRIC",
+        "score": 69103.88
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Roofing",
+        "metric": "ASYMMETRIC",
+        "score": 14081.32
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Trim",
+        "metric": "ASYMMETRIC",
+        "score": 5987.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Cabinets",
+        "metric": "ASYMMETRIC",
+        "score": 48906.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Electrical",
+        "metric": "ASYMMETRIC",
+        "score": 15014.800000000003
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Wallcoverings",
+        "metric": "ASYMMETRIC",
+        "score": 9000.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Excavation",
+        "metric": "ASYMMETRIC",
+        "score": 16071.68
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Siding",
+        "metric": "ASYMMETRIC",
+        "score": 28235.9
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Concrete",
+        "metric": "ASYMMETRIC",
+        "score": 48779.59999999999
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Contents",
+        "metric": "ASYMMETRIC",
+        "score": 1800.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Windows",
+        "metric": "ASYMMETRIC",
+        "score": 2600.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Specialties",
+        "metric": "ASYMMETRIC",
+        "score": 5428.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Carpentry",
+        "metric": "ASYMMETRIC",
+        "score": 2768.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Moving",
+        "metric": "ASYMMETRIC",
+        "score": 11040.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Cabinetry",
+        "metric": "ASYMMETRIC",
+        "score": 61920.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Painting",
+        "metric": "ASYMMETRIC",
+        "score": 45142.240000000005
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Plaster",
+        "metric": "ASYMMETRIC",
+        "score": 10944.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Cleaning",
+        "metric": "ASYMMETRIC",
+        "score": 8500.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "HVAC",
+        "metric": "ASYMMETRIC",
+        "score": 7356.800000000003
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Stucco",
+        "metric": "ASYMMETRIC",
+        "score": 23500.8
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Lighting",
+        "metric": "ASYMMETRIC",
+        "score": 3840.0
+    },
+    {
+        "model_file": "7.json",
+        "sectionName": "Flooring",
+        "metric": "ASYMMETRIC",
+        "score": 14060.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Doors",
+        "metric": "MAE",
+        "score": 12391.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Drywall",
+        "metric": "MAE",
+        "score": 4400.740000000005
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "General Conditions",
+        "metric": "MAE",
+        "score": 28771.339999999997
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Insulation",
+        "metric": "MAE",
+        "score": 6488.260000000002
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Tile",
+        "metric": "MAE",
+        "score": 5128.039999999994
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Bath Accessories",
+        "metric": "MAE",
+        "score": 633.6
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Labor",
+        "metric": "MAE",
+        "score": 11520.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Demolition",
+        "metric": "MAE",
+        "score": 18336.809999999998
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Metal Framing",
+        "metric": "MAE",
+        "score": 21491.2
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Appliances",
+        "metric": "MAE",
+        "score": 1660.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Countertops",
+        "metric": "MAE",
+        "score": 3637.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Framing",
+        "metric": "MAE",
+        "score": 25119.660000000003
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Plumbing",
+        "metric": "MAE",
+        "score": 30006.54
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Roofing",
+        "metric": "MAE",
+        "score": 1534.119999999999
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Trim",
+        "metric": "MAE",
+        "score": 595.5
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Cabinets",
+        "metric": "MAE",
+        "score": 42419.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Electrical",
+        "metric": "MAE",
+        "score": 9468.599999999999
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Excavation",
+        "metric": "MAE",
+        "score": 13761.36
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Siding",
+        "metric": "MAE",
+        "score": 19579.5
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Concrete",
+        "metric": "MAE",
+        "score": 12828.2
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Contents",
+        "metric": "MAE",
+        "score": 2030.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Windows",
+        "metric": "MAE",
+        "score": 4660.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Specialties",
+        "metric": "MAE",
+        "score": 83894.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Carpentry",
+        "metric": "MAE",
+        "score": 1384.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Moving",
+        "metric": "MAE",
+        "score": 5520.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Cabinetry",
+        "metric": "MAE",
+        "score": 30960.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Painting",
+        "metric": "MAE",
+        "score": 4488.32
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Plaster",
+        "metric": "MAE",
+        "score": 5472.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Cleaning",
+        "metric": "MAE",
+        "score": 785.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "HVAC",
+        "metric": "MAE",
+        "score": 15770.199999999997
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Stucco",
+        "metric": "MAE",
+        "score": 11750.4
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Lighting",
+        "metric": "MAE",
+        "score": 1920.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Flooring",
+        "metric": "MAE",
+        "score": 13285.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Doors",
+        "metric": "MAPE",
+        "score": 65.6302966101695
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Drywall",
+        "metric": "MAPE",
+        "score": 6.8944221597093875
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "General Conditions",
+        "metric": "MAPE",
+        "score": 60.7712627202882
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Insulation",
+        "metric": "MAPE",
+        "score": 24.556966624604584
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Tile",
+        "metric": "MAPE",
+        "score": 6.74656885446048
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Bath Accessories",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Labor",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Demolition",
+        "metric": "MAPE",
+        "score": 27.04501965013526
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Metal Framing",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Appliances",
+        "metric": "MAPE",
+        "score": 20.75
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Countertops",
+        "metric": "MAPE",
+        "score": 38.65858843537415
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Framing",
+        "metric": "MAPE",
+        "score": 16.027606138707284
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Plumbing",
+        "metric": "MAPE",
+        "score": 38.45516221081293
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Roofing",
+        "metric": "MAPE",
+        "score": 5.067169424435716
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Trim",
+        "metric": "MAPE",
+        "score": 20.064016172506737
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Cabinets",
+        "metric": "MAPE",
+        "score": 13255.937499999998
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Electrical",
+        "metric": "MAPE",
+        "score": 21.20085801161629
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Excavation",
+        "metric": "MAPE",
+        "score": 171.24980089200383
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Siding",
+        "metric": "MAPE",
+        "score": 98.02738628683005
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Concrete",
+        "metric": "MAPE",
+        "score": 56.06534736547674
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Contents",
+        "metric": "MAPE",
+        "score": NaN
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Windows",
+        "metric": "MAPE",
+        "score": 52.95454545454545
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Specialties",
+        "metric": "MAPE",
+        "score": 1180.9403153153153
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Carpentry",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Moving",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Cabinetry",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Painting",
+        "metric": "MAPE",
+        "score": 9.334580073673036
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Plaster",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Cleaning",
+        "metric": "MAPE",
+        "score": 4.131578947368421
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "HVAC",
+        "metric": "MAPE",
+        "score": 34.98642268919494
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Stucco",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Lighting",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Flooring",
+        "metric": "MAPE",
+        "score": 79.07738095238095
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Doors",
+        "metric": "MRE",
+        "score": 0.6563029661016949
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Drywall",
+        "metric": "MRE",
+        "score": 0.06894422159709387
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "General Conditions",
+        "metric": "MRE",
+        "score": 0.607712627202882
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Insulation",
+        "metric": "MRE",
+        "score": 0.24556966624604584
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Tile",
+        "metric": "MRE",
+        "score": 0.0674656885446048
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Bath Accessories",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Labor",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Demolition",
+        "metric": "MRE",
+        "score": 0.2704501965013526
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Metal Framing",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Appliances",
+        "metric": "MRE",
+        "score": 0.2075
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Countertops",
+        "metric": "MRE",
+        "score": 0.38658588435374147
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Framing",
+        "metric": "MRE",
+        "score": 0.16027606138707284
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Plumbing",
+        "metric": "MRE",
+        "score": 0.38455162210812927
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Roofing",
+        "metric": "MRE",
+        "score": 0.050671694244357156
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Trim",
+        "metric": "MRE",
+        "score": 0.20064016172506738
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Cabinets",
+        "metric": "MRE",
+        "score": 132.559375
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Electrical",
+        "metric": "MRE",
+        "score": 0.21200858011616291
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Excavation",
+        "metric": "MRE",
+        "score": 1.7124980089200383
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Siding",
+        "metric": "MRE",
+        "score": 0.9802738628683005
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Concrete",
+        "metric": "MRE",
+        "score": 0.5606534736547674
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Contents",
+        "metric": "MRE",
+        "score": NaN
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Windows",
+        "metric": "MRE",
+        "score": 0.5295454545454545
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Specialties",
+        "metric": "MRE",
+        "score": 11.809403153153154
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Carpentry",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Moving",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Cabinetry",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Painting",
+        "metric": "MRE",
+        "score": 0.09334580073673036
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Plaster",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Cleaning",
+        "metric": "MRE",
+        "score": 0.04131578947368421
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "HVAC",
+        "metric": "MRE",
+        "score": 0.3498642268919494
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Stucco",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Lighting",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Flooring",
+        "metric": "MRE",
+        "score": 0.7907738095238095
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Doors",
+        "metric": "ASYMMETRIC",
+        "score": 24782.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Drywall",
+        "metric": "ASYMMETRIC",
+        "score": 8801.48000000001
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "General Conditions",
+        "metric": "ASYMMETRIC",
+        "score": 28771.339999999997
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Insulation",
+        "metric": "ASYMMETRIC",
+        "score": 12976.520000000004
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Tile",
+        "metric": "ASYMMETRIC",
+        "score": 5128.039999999994
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Bath Accessories",
+        "metric": "ASYMMETRIC",
+        "score": 1267.2
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Labor",
+        "metric": "ASYMMETRIC",
+        "score": 23040.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Demolition",
+        "metric": "ASYMMETRIC",
+        "score": 36673.619999999995
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Metal Framing",
+        "metric": "ASYMMETRIC",
+        "score": 42982.4
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Appliances",
+        "metric": "ASYMMETRIC",
+        "score": 1660.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Countertops",
+        "metric": "ASYMMETRIC",
+        "score": 3637.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Framing",
+        "metric": "ASYMMETRIC",
+        "score": 50239.32000000001
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Plumbing",
+        "metric": "ASYMMETRIC",
+        "score": 60013.08
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Roofing",
+        "metric": "ASYMMETRIC",
+        "score": 1534.119999999999
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Trim",
+        "metric": "ASYMMETRIC",
+        "score": 1191.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Cabinets",
+        "metric": "ASYMMETRIC",
+        "score": 42419.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Electrical",
+        "metric": "ASYMMETRIC",
+        "score": 9468.599999999999
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Excavation",
+        "metric": "ASYMMETRIC",
+        "score": 13761.36
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Siding",
+        "metric": "ASYMMETRIC",
+        "score": 19579.5
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Concrete",
+        "metric": "ASYMMETRIC",
+        "score": 12828.2
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Contents",
+        "metric": "ASYMMETRIC",
+        "score": 2030.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Windows",
+        "metric": "ASYMMETRIC",
+        "score": 4660.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Specialties",
+        "metric": "ASYMMETRIC",
+        "score": 83894.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Carpentry",
+        "metric": "ASYMMETRIC",
+        "score": 2768.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Moving",
+        "metric": "ASYMMETRIC",
+        "score": 11040.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Cabinetry",
+        "metric": "ASYMMETRIC",
+        "score": 61920.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Painting",
+        "metric": "ASYMMETRIC",
+        "score": 8976.64
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Plaster",
+        "metric": "ASYMMETRIC",
+        "score": 10944.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Cleaning",
+        "metric": "ASYMMETRIC",
+        "score": 1570.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "HVAC",
+        "metric": "ASYMMETRIC",
+        "score": 31540.399999999994
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Stucco",
+        "metric": "ASYMMETRIC",
+        "score": 23500.8
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Lighting",
+        "metric": "ASYMMETRIC",
+        "score": 3840.0
+    },
+    {
+        "model_file": "5.json",
+        "sectionName": "Flooring",
+        "metric": "ASYMMETRIC",
+        "score": 13285.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Doors",
+        "metric": "MAE",
+        "score": 11702.2
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Drywall",
+        "metric": "MAE",
+        "score": 319.75999999999476
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "General Conditions",
+        "metric": "MAE",
+        "score": 87296.34
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Insulation",
+        "metric": "MAE",
+        "score": 4005.4600000000028
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Tile",
+        "metric": "MAE",
+        "score": 10004.699999999997
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Bath Accessories",
+        "metric": "MAE",
+        "score": 633.6
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Labor",
+        "metric": "MAE",
+        "score": 2880.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Demolition",
+        "metric": "MAE",
+        "score": 16984.059999999998
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Site Work",
+        "metric": "MAE",
+        "score": 350.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Plastering",
+        "metric": "MAE",
+        "score": 1713.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Metal Framing",
+        "metric": "MAE",
+        "score": 21491.2
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Appliances",
+        "metric": "MAE",
+        "score": 1660.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Countertops",
+        "metric": "MAE",
+        "score": 2037.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Framing",
+        "metric": "MAE",
+        "score": 33566.06
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Plumbing",
+        "metric": "MAE",
+        "score": 28666.14
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Roofing",
+        "metric": "MAE",
+        "score": 9.919999999998254
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Trim",
+        "metric": "MAE",
+        "score": 595.5
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Cabinets",
+        "metric": "MAE",
+        "score": 43309.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Electrical",
+        "metric": "MAE",
+        "score": 9651.599999999999
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Excavation",
+        "metric": "MAE",
+        "score": 13998.560000000001
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Siding",
+        "metric": "MAE",
+        "score": 14107.900000000001
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Concrete",
+        "metric": "MAE",
+        "score": 12538.399999999998
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Contents",
+        "metric": "MAE",
+        "score": 6420.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Windows",
+        "metric": "MAE",
+        "score": 4450.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Specialties",
+        "metric": "MAE",
+        "score": 18532.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Carpentry",
+        "metric": "MAE",
+        "score": 1384.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Moving",
+        "metric": "MAE",
+        "score": 5520.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Cabinetry",
+        "metric": "MAE",
+        "score": 30960.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Painting",
+        "metric": "MAE",
+        "score": 10643.770000000004
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Plaster",
+        "metric": "MAE",
+        "score": 4464.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Cleaning",
+        "metric": "MAE",
+        "score": 1420.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "HVAC",
+        "metric": "MAE",
+        "score": 11625.199999999997
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Foundation",
+        "metric": "MAE",
+        "score": 8550.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Stucco",
+        "metric": "MAE",
+        "score": 11750.4
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Construction",
+        "metric": "MAE",
+        "score": 742.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Lighting",
+        "metric": "MAE",
+        "score": 1920.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Flooring",
+        "metric": "MAE",
+        "score": 10976.25
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Doors",
+        "metric": "MAPE",
+        "score": 61.98199152542373
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Drywall",
+        "metric": "MAPE",
+        "score": 0.5009522102620548
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "General Conditions",
+        "metric": "MAPE",
+        "score": 184.388659431907
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Insulation",
+        "metric": "MAPE",
+        "score": 15.15998858495016
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Tile",
+        "metric": "MAPE",
+        "score": 13.16241632635877
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Bath Accessories",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Labor",
+        "metric": "MAPE",
+        "score": 25.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Demolition",
+        "metric": "MAPE",
+        "score": 25.049844353465854
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Site Work",
+        "metric": "MAPE",
+        "score": NaN
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Plastering",
+        "metric": "MAPE",
+        "score": NaN
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Metal Framing",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Appliances",
+        "metric": "MAPE",
+        "score": 20.75
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Countertops",
+        "metric": "MAPE",
+        "score": 21.651785714285715
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Framing",
+        "metric": "MAPE",
+        "score": 21.416834037889725
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Plumbing",
+        "metric": "MAPE",
+        "score": 36.73736004410614
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Roofing",
+        "metric": "MAPE",
+        "score": 0.03276557289546677
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Trim",
+        "metric": "MAPE",
+        "score": 20.064016172506737
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Cabinets",
+        "metric": "MAPE",
+        "score": 13534.062499999998
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Electrical",
+        "metric": "MAPE",
+        "score": 21.61060781793674
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Excavation",
+        "metric": "MAPE",
+        "score": 174.20157693532974
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Siding",
+        "metric": "MAPE",
+        "score": 70.6330888427166
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Concrete",
+        "metric": "MAPE",
+        "score": 54.79878325932659
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Contents",
+        "metric": "MAPE",
+        "score": NaN
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Windows",
+        "metric": "MAPE",
+        "score": 50.56818181818182
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Specialties",
+        "metric": "MAPE",
+        "score": 260.8671171171171
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Carpentry",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Moving",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Cabinetry",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Painting",
+        "metric": "MAPE",
+        "score": 22.136372484751288
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Plaster",
+        "metric": "MAPE",
+        "score": 81.57894736842105
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Cleaning",
+        "metric": "MAPE",
+        "score": 7.473684210526316
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "HVAC",
+        "metric": "MAPE",
+        "score": 25.79067868805906
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Foundation",
+        "metric": "MAPE",
+        "score": NaN
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Stucco",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Construction",
+        "metric": "MAPE",
+        "score": NaN
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Lighting",
+        "metric": "MAPE",
+        "score": 100.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Flooring",
+        "metric": "MAPE",
+        "score": 65.33482142857143
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Doors",
+        "metric": "MRE",
+        "score": 0.6198199152542373
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Drywall",
+        "metric": "MRE",
+        "score": 0.005009522102620548
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "General Conditions",
+        "metric": "MRE",
+        "score": 1.84388659431907
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Insulation",
+        "metric": "MRE",
+        "score": 0.1515998858495016
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Tile",
+        "metric": "MRE",
+        "score": 0.1316241632635877
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Bath Accessories",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Labor",
+        "metric": "MRE",
+        "score": 0.25
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Demolition",
+        "metric": "MRE",
+        "score": 0.25049844353465855
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Site Work",
+        "metric": "MRE",
+        "score": NaN
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Plastering",
+        "metric": "MRE",
+        "score": NaN
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Metal Framing",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Appliances",
+        "metric": "MRE",
+        "score": 0.2075
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Countertops",
+        "metric": "MRE",
+        "score": 0.21651785714285715
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Framing",
+        "metric": "MRE",
+        "score": 0.21416834037889723
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Plumbing",
+        "metric": "MRE",
+        "score": 0.36737360044106143
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Roofing",
+        "metric": "MRE",
+        "score": 0.00032765572895466767
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Trim",
+        "metric": "MRE",
+        "score": 0.20064016172506738
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Cabinets",
+        "metric": "MRE",
+        "score": 135.340625
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Electrical",
+        "metric": "MRE",
+        "score": 0.2161060781793674
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Excavation",
+        "metric": "MRE",
+        "score": 1.7420157693532974
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Siding",
+        "metric": "MRE",
+        "score": 0.7063308884271661
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Concrete",
+        "metric": "MRE",
+        "score": 0.5479878325932659
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Contents",
+        "metric": "MRE",
+        "score": NaN
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Windows",
+        "metric": "MRE",
+        "score": 0.5056818181818182
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Specialties",
+        "metric": "MRE",
+        "score": 2.608671171171171
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Carpentry",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Moving",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Cabinetry",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Painting",
+        "metric": "MRE",
+        "score": 0.22136372484751288
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Plaster",
+        "metric": "MRE",
+        "score": 0.8157894736842105
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Cleaning",
+        "metric": "MRE",
+        "score": 0.07473684210526316
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "HVAC",
+        "metric": "MRE",
+        "score": 0.2579067868805906
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Foundation",
+        "metric": "MRE",
+        "score": NaN
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Stucco",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Construction",
+        "metric": "MRE",
+        "score": NaN
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Lighting",
+        "metric": "MRE",
+        "score": 1.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Flooring",
+        "metric": "MRE",
+        "score": 0.6533482142857143
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Doors",
+        "metric": "ASYMMETRIC",
+        "score": 23404.4
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Drywall",
+        "metric": "ASYMMETRIC",
+        "score": 319.75999999999476
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "General Conditions",
+        "metric": "ASYMMETRIC",
+        "score": 87296.34
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Insulation",
+        "metric": "ASYMMETRIC",
+        "score": 8010.9200000000055
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Tile",
+        "metric": "ASYMMETRIC",
+        "score": 10004.699999999997
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Bath Accessories",
+        "metric": "ASYMMETRIC",
+        "score": 1267.2
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Labor",
+        "metric": "ASYMMETRIC",
+        "score": 2880.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Demolition",
+        "metric": "ASYMMETRIC",
+        "score": 33968.119999999995
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Site Work",
+        "metric": "ASYMMETRIC",
+        "score": 350.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Plastering",
+        "metric": "ASYMMETRIC",
+        "score": 1713.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Metal Framing",
+        "metric": "ASYMMETRIC",
+        "score": 42982.4
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Appliances",
+        "metric": "ASYMMETRIC",
+        "score": 1660.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Countertops",
+        "metric": "ASYMMETRIC",
+        "score": 2037.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Framing",
+        "metric": "ASYMMETRIC",
+        "score": 67132.12
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Plumbing",
+        "metric": "ASYMMETRIC",
+        "score": 57332.28
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Roofing",
+        "metric": "ASYMMETRIC",
+        "score": 9.919999999998254
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Trim",
+        "metric": "ASYMMETRIC",
+        "score": 1191.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Cabinets",
+        "metric": "ASYMMETRIC",
+        "score": 43309.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Electrical",
+        "metric": "ASYMMETRIC",
+        "score": 9651.599999999999
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Excavation",
+        "metric": "ASYMMETRIC",
+        "score": 13998.560000000001
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Siding",
+        "metric": "ASYMMETRIC",
+        "score": 14107.900000000001
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Concrete",
+        "metric": "ASYMMETRIC",
+        "score": 12538.399999999998
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Contents",
+        "metric": "ASYMMETRIC",
+        "score": 6420.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Windows",
+        "metric": "ASYMMETRIC",
+        "score": 4450.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Specialties",
+        "metric": "ASYMMETRIC",
+        "score": 18532.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Carpentry",
+        "metric": "ASYMMETRIC",
+        "score": 2768.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Moving",
+        "metric": "ASYMMETRIC",
+        "score": 11040.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Cabinetry",
+        "metric": "ASYMMETRIC",
+        "score": 61920.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Painting",
+        "metric": "ASYMMETRIC",
+        "score": 21287.540000000008
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Plaster",
+        "metric": "ASYMMETRIC",
+        "score": 8928.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Cleaning",
+        "metric": "ASYMMETRIC",
+        "score": 2840.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "HVAC",
+        "metric": "ASYMMETRIC",
+        "score": 23250.399999999994
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Foundation",
+        "metric": "ASYMMETRIC",
+        "score": 8550.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Stucco",
+        "metric": "ASYMMETRIC",
+        "score": 23500.8
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Construction",
+        "metric": "ASYMMETRIC",
+        "score": 742.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Lighting",
+        "metric": "ASYMMETRIC",
+        "score": 3840.0
+    },
+    {
+        "model_file": "4.json",
+        "sectionName": "Flooring",
+        "metric": "ASYMMETRIC",
+        "score": 10976.25
+    }
+]

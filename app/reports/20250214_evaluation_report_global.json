@@ -1,0 +1,82 @@
+[
+    {
+        "model_file": "2.json",
+        "metric": "MAE",
+        "score": 20162.56636363636
+    },
+    {
+        "model_file": "2.json",
+        "metric": "MAPE",
+        "score": 606.5788997355328
+    },
+    {
+        "model_file": "2.json",
+        "metric": "MRE",
+        "score": 6.065788997355328
+    },
+    {
+        "model_file": "2.json",
+        "metric": "ASYMMETRIC",
+        "score": 28080.671818181818
+    },
+    {
+        "model_file": "7.json",
+        "metric": "MAE",
+        "score": 15347.599411764708
+    },
+    {
+        "model_file": "7.json",
+        "metric": "MAPE",
+        "score": 546.1983798295718
+    },
+    {
+        "model_file": "7.json",
+        "metric": "MRE",
+        "score": 5.461983798295718
+    },
+    {
+        "model_file": "7.json",
+        "metric": "ASYMMETRIC",
+        "score": 23792.41176470588
+    },
+    {
+        "model_file": "5.json",
+        "metric": "MAE",
+        "score": 13687.557272727274
+    },
+    {
+        "model_file": "5.json",
+        "metric": "MAPE",
+        "score": 506.08039984342525
+    },
+    {
+        "model_file": "5.json",
+        "metric": "MRE",
+        "score": 5.0608039984342525
+    },
+    {
+        "model_file": "5.json",
+        "metric": "ASYMMETRIC",
+        "score": 20021.89757575758
+    },
+    {
+        "model_file": "4.json",
+        "metric": "MAE",
+        "score": 12077.784324324324
+    },
+    {
+        "model_file": "4.json",
+        "metric": "MAPE",
+        "score": 484.8422804357809
+    },
+    {
+        "model_file": "4.json",
+        "metric": "MRE",
+        "score": 4.848422804357809
+    },
+    {
+        "model_file": "4.json",
+        "metric": "ASYMMETRIC",
+        "score": 17411.07054054054
+    }
+]

@@ -6,6 +6,6 @@ evaluation:
     - MAPE
     - MRE
     - ASYMMETRIC
-  format: "csv"
-  output_path: "./20250214_evaluation_report"
+  format: "json"
+  output_path: "reports/20250214_evaluation_report"
 log_file: "logs/evaluation.log"

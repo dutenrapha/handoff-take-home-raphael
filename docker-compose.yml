@@ -2,10 +2,22 @@ version: '3.8'
 
 services:
   ai_ml_evaluator:
-    build: .
+    build: ./app
     container_name: ai_ml_evaluator
     volumes:
-      - ./data:/app/data
+      - ./app/data:/app/data
+      - ./app/reports:/app/reports
+      - ./app/config.yaml:/app/config.yaml
     environment:
       - CONFIG_PATH=/app/config.yaml
-    restart: always
+    command: ["python", "main.py"]
+
+  streamlit_app:
+    build: ./ui
+    container_name: streamlit_app
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./app/reports:/app/reports
+
+    command: ["streamlit", "run", "ui.py", "--server.port=8501", "--server.address=0.0.0.0"]

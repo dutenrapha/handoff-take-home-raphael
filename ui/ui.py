@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 import json
 
+REPORT_GLOBAL_PATH = "reports/20250214_evaluation_report_global.json"
+REPORT_BY_SECTION_PATH = "reports/20250214_evaluation_report_by_section.json"
+
 def reorder_columns_by_std_desc(df: pd.DataFrame) -> pd.DataFrame:
     """Reordena as colunas pelo desvio padrão (descendente)."""
     stds = df.std(axis=0, numeric_only=True)
@@ -22,9 +25,6 @@ def get_best_model_by_section(df: pd.DataFrame) -> pd.DataFrame:
     """
     best_models = df.loc[df.groupby("sectionName")["score"].idxmin(), ["sectionName", "model_file", "score"]]
     return best_models.rename(columns={"model_file": "best_model"}).reset_index(drop=True)
-
-REPORT_GLOBAL_PATH = "20250214_evaluation_report_global.json"
-REPORT_BY_SECTION_PATH = "20250214_evaluation_report_by_section.json"
 
 def main():
     st.title("Take home Raphael - Handoff")

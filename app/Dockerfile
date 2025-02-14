@@ -10,7 +10,8 @@ COPY adapters/ adapters/
 COPY observers/ observers/
 COPY reports/ reports/
 COPY data/ data/
+COPY utils/ utils/
 
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --upgrade pip &&pip install --no-cache-dir -r requirements.txt
 
 CMD ["python", "main.py"]
