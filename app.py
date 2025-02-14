@@ -4,14 +4,24 @@ import numpy as np
 import json
 
 def reorder_columns_by_std_desc(df: pd.DataFrame) -> pd.DataFrame:
+    """Reordena as colunas pelo desvio padrão (descendente)."""
     stds = df.std(axis=0, numeric_only=True)
     sorted_cols = stds.sort_values(ascending=False).index
     return df[sorted_cols]
 
 def reorder_columns_by_mean_desc(df: pd.DataFrame) -> pd.DataFrame:
+    """Reordena as colunas pela média (descendente)."""
     means = df.mean(axis=0, numeric_only=True)
     sorted_cols = means.sort_values(ascending=False).index
     return df[sorted_cols]
+
+def get_best_model_by_section(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Para cada seção, encontra o modelo com o menor valor da métrica.
+    Retorna um DataFrame com duas colunas: 'sectionName' e 'best_model'.
+    """
+    best_models = df.loc[df.groupby("sectionName")["score"].idxmin(), ["sectionName", "model_file", "score"]]
+    return best_models.rename(columns={"model_file": "best_model"}).reset_index(drop=True)
 
 REPORT_GLOBAL_PATH = "20250214_evaluation_report_global.json"
 REPORT_BY_SECTION_PATH = "20250214_evaluation_report_by_section.json"
@@ -76,6 +86,13 @@ def main():
         html_table = df_styled.to_html()
         html_container = f"<div style='overflow-x: auto; max-width: 100%; border: 1px solid #333; padding: 10px;'>{html_table}</div>"
         st.markdown(html_container, unsafe_allow_html=True)
+
+        st.subheader(f"Best Model by Section - Metric '{selected_metric}'")
+        if df_section_filtered.empty:
+            st.warning(f"No data found for metric '{selected_metric}' in evaluation_report_by_section.json.")
+        else:
+            best_models_df = get_best_model_by_section(df_section_filtered)
+            st.dataframe(best_models_df)
 
 if __name__ == "__main__":
     main()
