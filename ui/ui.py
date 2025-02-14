@@ -21,10 +21,26 @@ def reorder_columns_by_mean_desc(df: pd.DataFrame) -> pd.DataFrame:
 def get_best_model_by_section(df: pd.DataFrame) -> pd.DataFrame:
     """
     Para cada seção, encontra o modelo com o menor valor da métrica.
-    Retorna um DataFrame com duas colunas: 'sectionName' e 'best_model'.
+    Retorna um DataFrame com três colunas: 'sectionName', 'best_model', 'score'.
     """
+    df = df.dropna(subset=["score"])  # Removendo NaN antes de calcular idxmin()
+
+    if df.empty:
+        return pd.DataFrame(columns=["sectionName", "best_model", "score"])  # Retorna vazio se não houver dados válidos
+
     best_models = df.loc[df.groupby("sectionName")["score"].idxmin(), ["sectionName", "model_file", "score"]]
     return best_models.rename(columns={"model_file": "best_model"}).reset_index(drop=True)
+
+def add_ranking(df: pd.DataFrame) -> pd.DataFrame:
+    """Adiciona uma coluna de ranking ao DataFrame, ordenando os modelos do melhor (menor score) para o pior."""
+    df = df.dropna(subset=["score"]).copy()  # Remover NaN antes do rankeamento
+
+    if df.empty:
+        return df  # Se estiver vazio, retorna como está
+
+    df["ranking"] = df["score"].rank(method="dense", ascending=True).astype(int)
+    df = df.sort_values("ranking").reset_index(drop=True)
+    return df
 
 def main():
     st.title("Take home Raphael - Handoff")
@@ -54,6 +70,7 @@ def main():
     if df_global_filtered.empty:
         st.warning(f"No data found for metric '{selected_metric}' in evaluation_report_global.json.")
     else:
+        df_global_filtered = add_ranking(df_global_filtered)
         st.dataframe(df_global_filtered.reset_index(drop=True))
 
     st.subheader(f"Table by Section - Metric '{selected_metric}'")
