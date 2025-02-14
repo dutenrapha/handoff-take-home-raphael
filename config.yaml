@@ -5,6 +5,7 @@ evaluation:
     - MAE
     - MAPE
     - MRE
-  format: "json"
-  output_path: "reports/evaluation_report.csv"
+    - ASYMMETRIC
+  format: "csv"
+  output_path: "./20250214_evaluation_report"
 log_file: "logs/evaluation.log"
