@@ -11,9 +11,6 @@ venv/
 *.swn
 *~
 *.ipynb
-*.csv
-*.json
-data
 
 *.log
 

@@ -1,0 +1,205 @@
+{
+    "test_n": 1,
+    "input": "Bathroom Remodel project: 7'x10'-6\", 8 ft ceilings\nDemo a tub/shower combo\nReplace with a complete shower system, with tiled walls, niche, and curb.\nReplace tile floor with new tile.\nNew double vanity.\nNew Toilet.\nPlumbing fixtures stay in place, no relocation or new rough-in needed.\nRepaint whole room 3 coats.\nReplace 4 light fixtures.\nShower Glass Enclosure excluded.",
+    "rows": [
+        {
+            "sectionName": "Demolition",
+            "qty": 66.0,
+            "rateUsd": 2.4,
+            "rowTotalCostUsd": 158.4,
+            "label": "Demo Shower Surround",
+            "uom": "SF",
+            "category": "other"
+        },
+        {
+            "sectionName": "Demolition",
+            "qty": 1.0,
+            "rateUsd": 80.0,
+            "rowTotalCostUsd": 80.0,
+            "label": "Demo Vanity",
+            "uom": "EA",
+            "category": "other"
+        },
+        {
+            "sectionName": "Demolition",
+            "qty": 73.0,
+            "rateUsd": 4.0,
+            "rowTotalCostUsd": 292.0,
+            "label": "Demo Tile",
+            "uom": "SF",
+            "category": "other"
+        },
+        {
+            "sectionName": "Demolition",
+            "qty": 1.0,
+            "rateUsd": 240.0,
+            "rowTotalCostUsd": 240.0,
+            "label": "Demo Tub",
+            "uom": "EA",
+            "category": "other"
+        },
+        {
+            "sectionName": "Demolition",
+            "qty": 3.0,
+            "rateUsd": 120.0,
+            "rowTotalCostUsd": 360.0,
+            "label": "Demo Plumbing Fixtures",
+            "uom": "EA",
+            "category": "other"
+        },
+        {
+            "sectionName": "Demolition",
+            "qty": 4.0,
+            "rateUsd": 80.0,
+            "rowTotalCostUsd": 320.0,
+            "label": "Demo Light Fixtures",
+            "uom": "EA",
+            "category": "other"
+        },
+        {
+            "sectionName": "Demolition",
+            "qty": 36.0,
+            "rateUsd": 1.6,
+            "rowTotalCostUsd": 57.6,
+            "label": "Demo Baseboards",
+            "uom": "LF",
+            "category": "other"
+        },
+        {
+            "sectionName": "Plumbing",
+            "qty": 1.0,
+            "rateUsd": 520.0,
+            "rowTotalCostUsd": 520.0,
+            "label": "Install Shower Pan",
+            "uom": "EA",
+            "category": "other"
+        },
+        {
+            "sectionName": "Plumbing",
+            "qty": 1.0,
+            "rateUsd": 160.0,
+            "rowTotalCostUsd": 160.0,
+            "label": "Install Shower Valve",
+            "uom": "EA",
+            "category": "other"
+        },
+        {
+            "sectionName": "Plumbing",
+            "qty": 1.0,
+            "rateUsd": 240.0,
+            "rowTotalCostUsd": 240.0,
+            "label": "Install Shower Faucet",
+            "uom": "EA",
+            "category": "other"
+        },
+        {
+            "sectionName": "Plumbing",
+            "qty": 1.0,
+            "rateUsd": 800.0,
+            "rowTotalCostUsd": 800.0,
+            "label": "Install Vanity",
+            "uom": "EA",
+            "category": "other"
+        },
+        {
+            "sectionName": "Plumbing",
+            "qty": 2.0,
+            "rateUsd": 160.0,
+            "rowTotalCostUsd": 320.0,
+            "label": "Install Sink Faucet",
+            "uom": "EA",
+            "category": "other"
+        },
+        {
+            "sectionName": "Plumbing",
+            "qty": 1.0,
+            "rateUsd": 400.0,
+            "rowTotalCostUsd": 400.0,
+            "label": "Install Toilet",
+            "uom": "EA",
+            "category": "other"
+        },
+        {
+            "sectionName": "Electrical",
+            "qty": 4.0,
+            "rateUsd": 240.0,
+            "rowTotalCostUsd": 960.0,
+            "label": "Install Light Fixtures",
+            "uom": "EA",
+            "category": "other"
+        },
+        {
+            "sectionName": "Trim",
+            "qty": 36.0,
+            "rateUsd": 4.0,
+            "rowTotalCostUsd": 144.0,
+            "label": "Install Baseboards",
+            "uom": "LF",
+            "category": "other"
+        },
+        {
+            "sectionName": "Painting",
+            "qty": 288.0,
+            "rateUsd": 2.4,
+            "rowTotalCostUsd": 691.2,
+            "label": "Paint Walls - 3 Coats",
+            "uom": "SF",
+            "category": "other"
+        },
+        {
+            "sectionName": "Painting",
+            "qty": 73.0,
+            "rateUsd": 2.4,
+            "rowTotalCostUsd": 175.2,
+            "label": "Paint Ceiling - 3 Coats",
+            "uom": "SF",
+            "category": "other"
+        },
+        {
+            "sectionName": "Painting",
+            "qty": 56.0,
+            "rateUsd": 2.4,
+            "rowTotalCostUsd": 134.4,
+            "label": "Paint Trim - 3 Coats",
+            "uom": "LF",
+            "category": "other"
+        },
+        {
+            "sectionName": "Tile",
+            "qty": 66.0,
+            "rateUsd": 16.0,
+            "rowTotalCostUsd": 1056.0,
+            "label": "Install Wall Tile",
+            "uom": "SF",
+            "category": "other"
+        },
+        {
+            "sectionName": "Tile",
+            "qty": 73.0,
+            "rateUsd": 16.0,
+            "rowTotalCostUsd": 1168.0,
+            "label": "Install Floor Tile",
+            "uom": "SF",
+            "category": "other"
+        },
+        {
+            "sectionName": "Tile",
+            "qty": 1.0,
+            "rateUsd": 240.0,
+            "rowTotalCostUsd": 240.0,
+            "label": "Install Shower Curb",
+            "uom": "EA",
+            "category": "other"
+        },
+        {
+            "sectionName": "Tile",
+            "qty": 1.0,
+            "rateUsd": 240.0,
+            "rowTotalCostUsd": 240.0,
+            "label": "Install Shower Niche",
+            "uom": "EA",
+            "category": "other"
+        }
+    ],
+    "totalCostUsd": 8756.8
+}
